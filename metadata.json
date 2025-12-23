@@ -1,0 +1,5 @@
+{
+  "name": "臺北市景點查詢系統",
+  "description": "提供臺北市境內景點查詢功能，串接臺北旅遊網 Open API，具備多語系選擇、分頁瀏覽及響應式卡片設計。",
+  "requestFramePermissions": []
+}
